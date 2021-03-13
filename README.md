@@ -17,3 +17,6 @@ https://tesseract-ocr.github.io/tessapi/4.0.0/index.html
 
 ##### Repositório tesseract
 https://github.com/tesseract-ocr/tesseract
+
+##### Repositório notebook utilizando tesseract + python
+https://github.com/mrioqueiroz/captcha-lab/blob/master/captcha.ipynb
